@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import { Plus, Trash2, Edit2, Download, TrendingUp, Package, Truck, RotateCcw, Clock, DollarSign } from 'lucide-react';
 
 const RentalManagementSystem = () => {
   const [activeTab, setActiveTab] = useState('dashboard');
